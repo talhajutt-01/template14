@@ -1,0 +1,221 @@
+{    "title": {
+        "title": "Updated WEBUILD -  Construction Company Website Template Free"
+    },
+
+     "topbar": {
+        "h0": "Updated Our Office",
+        "h1": "123 Street, New York, USA",
+        "h2": "Email Us",
+        "h3": "info@example.com",
+        "h4": "Call Us",
+        "h5": "+012 345 6789"
+    },
+
+      "nav": {
+        "nav0": "home",
+        "nav1": "About",
+        "nav2": "Service",
+        "nav3": "Pages",
+        "nav4": "Contact",
+        "nav5": "Get A Quote"
+    },
+
+      "page": {
+        "p0": "Our Project",
+        "p1": "The Team",
+        "p2": "Testimonial",
+        "p3": "Blog Grid",
+        "p4": "Blog Detail"
+    },
+
+      "carousel": {
+        "ca0": "update Build Your Dream House With Us",
+        "ca1": "Get A Quote",
+        "ca2": "update We Are Trusted For Your Project",
+        "ca3": "Contact Us"
+    },
+
+     "about":{
+        "a0":"update We are the Leader in Construction Industry",
+        "a1":"Tempor erat elitr at rebum at at clita. Diam dolor diam ipsum tempor sit diam amet diam et eos labore",
+        "a2":"Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor",
+        "a3":"Perfect Planning",
+        "a4":"Professional Workers",
+        "a5":"First Working Process",
+        "a6":"Perfect Planning",
+        "a7":"Professional Workers",
+        "a8":"First Working Process",
+        "a9":"Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos labore"
+     },
+
+       "service":{
+        "s":"update We Provide The Best Construction Services",
+        "s0":"update Building Construction",
+        "s1":"updateDuo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut amet sed erat sed sed amet magna elitr amet kasd diam duo",
+        "s2":"Read More",
+        "s3":"House Renovation",
+        "s4":"Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut amet sed erat sed sed amet magna elitr amet kasd diam duo",
+        "s5":"Read More",
+        "s6":"Architecture Design",
+        "s7":"Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut amet sed erat sed sed amet magna elitr amet kasd diam duo",
+        "s8":"Read More",
+        "s9":"Interior Design",
+        "s10":"Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut amet sed erat sed sed amet magna elitr amet kasd diam duo",
+        "s11":"Read More",
+        "s12":"Fixing and Support",
+        "s13":"Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut amet sed erat sed sed amet magna elitr amet kasd diam duo",
+        "s14":"Read More",
+        "s15":"Painting",
+        "s16":"Duo dolore et diam sed ipsum stet amet duo diam. Rebum amet ut amet sed erat sed sed amet magna elitr amet kasd diam duo",
+        "s17":"Read More"
+     },
+
+     "appointment": {
+        "ap0": "update Request A Call Back",
+        "ap1": "Nonumy ipsum amet tempor takimata vero ea elitr. Diam diam ut et eos duo duo sed. Lorem elitr sadipscing eos et ut et stet justo, sit dolore et voluptua labore. Ipsum erat et ea ipsum magna sadipscing lorem. Sit lorem sea sanctus eos. Sanctus sit tempor dolores ipsum stet justo sit erat ea, sed diam sanctus takimata sit. Et at voluptua amet erat justo amet ea ipsum eos, eirmod accusam sea sed ipsum kasd ut.",
+        "ap2": "Get A Quote"
+    },
+
+    "portfolio":{
+        "d0":"update Some Of Our Popular Dream Projects",
+        "d1":"All",
+        "d2":"Construction",
+        "d3":"Renovation",
+        "d4":"Project Name",
+        "d5":"123 Street, New York, USA",
+        "d6":"Project Name",
+        "d7":"123 Street, New York, USA",
+        "d8":"Project Name",
+        "d9":"123 Street, New York, USA",
+        "d10":"Project Name ",
+        "d11":"123 Street, New York, USA",
+        "d12":"Project Name",
+        "d13":"123 Street, New York, USA",
+        "d14":"Project Name",
+        "d15":"123 Street, New York, USA"
+     },
+
+      "team" : {
+        "t0":"updated We Are Professional and Expert Workers",
+        "t1":"updated Adam Phillips",
+        "t2":"CEO and Founder",
+        "t3":"Dylan Adams",
+        "t4":"Civil Engineer",
+        "t5":"Jhon Doe",
+        "t6":"Interior Designer",
+        "t7":"Josh Dunn",
+        "t8":"Painter"
+     },
+
+      "testimonial" : {
+        "te0":"updated What Our Happy Cleints Say!!!",
+        "te1":"updated Client Name",
+        "te2":"Profession",
+        "te3":"Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut labore et tempor diam tempor erat. Erat dolor rebum sitipsum.",
+        "te4":"Client Name",
+        "te5":"Profession",
+        "te6":"Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut labore et tempor diam tempor erat. Erat dolor rebum sitipsum."
+     },
+
+       "blog": {
+        "b0": "update Latest Articles From Our Blog Post",
+        "b1": "John Doe",
+        "b2": "01 Jan, 2045",
+        "b3": "Rebum diam clita lorem erat magna est erat",
+        "b4": "Read More",
+        "b5": "John Doe",
+        "b6": "01 Jan, 2045",
+        "b7": "Rebum diam clita lorem erat magna est erat",
+        "b8": "Read More",
+        "b9": "John Doe",
+        "b10": "01 Jan, 2045",
+        "b11": "Rebum diam clita lorem erat magna est erat",
+        "b12": "Read More"
+    },
+
+      "footer":{
+        "f":"update WEBUILD",
+        "f0":"update Aliquyam sed elitr elitr erat sed diam ipsum eirmod eos lorem nonumy. Tempor sea ipsum diam  sed clita dolore eos dolores magna erat dolore sed stet justo et dolor.",
+        "f1":"123 Street, New York, USA",
+        "f2":"+012 345 67890",
+        "f3":"info@example.com",
+        "f4":"Quick Links",
+        "f5":"Popular Links",
+        "f6":"Newsletter",
+        "f7":"All Rights Reserved.",
+        "f8":"Your Site Name",
+        "f9":"esigned by",
+        "f10":"HTML Codex"
+      },
+
+      "blogdetail":{
+        "u0": "update Diam dolor duo ipsum clita sed lorem tempor. Clita kasd diam justo diam lorem sed amet sed rebum eos.",
+        "u1": "update Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam utmagna lorem. Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stetamet magna accusam consetetur eirmod. Kasd accusam sit ipsum sadipscing et at atsanctus et. Ipsum sit gubergren dolores et, consetetur justo invidunt at et aliquyam ut et vero clita. Diam sea sea no sed dolores diam nonumy, gubergrensit stet no diam kasd vero.",
+        "u2": "Voluptua est takimata stet invidunt sed rebum nonumy stet, clita aliquyam doloresvero stet consetetur elitr takimata rebum sanctus. Sit sed accusam stet sitnonumy kasd diam dolores, sanctus lorem kasd duo dolor dolor vero sit et. Labore ipsum duo sanctus amet eos et. Consetetur no sed et aliquyam ipsum justo et, clita lorem sit vero amet amet est dolor elitr, stet et no diam sit. Dolor eratjusto dolore sit invidunt.",
+        "u3": "Diam dolor est labore duo invidunt ipsum clita et, sed et lorem voluptua tempor invidunt at est sanctus sanctus. Clita dolores sit kasd diam takimata justo diamlorem sed. Magna amet sed rebum eos. Clita no magna no dolor erat diam temporrebum consetetur, sanctus labore sed nonumy diam lorem amet eirmod. No at temporsea diam kasd, takimata ea nonumy elitr sadipscing gubergren erat. Gubergren atlorem invidunt sadipscing rebum sit amet ut ut, voluptua diam dolores atsadipscing stet. Clita dolor amet dolor ipsum vero ea ea eos.",
+        "u4": "3 Comments",
+        "u5": "John Doe",
+        "u6": "01 Jan 20",
+        "u7": "Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor laboreaccusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod",
+        "u8": "John Doe",
+        "u9": "01 Jan 20",
+        "u10": "Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor laboreaccusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod",
+        "u11": "John Doe",
+        "u12": "01 Jan 20",
+        "u13": "Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore accusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod",
+        "u14": "Leave a comment",
+        "u15": "Categories",
+        "u16": "Web Design",
+        "u17": "Web Development",
+        "u18": "Web Development",
+        "u19": "Keyword Research",
+        "u20": "Email Marketing",
+        "u21": "Recent Post",
+        "u22": "Tag Cloud",
+        "u23": "Plain Text",
+        "u24": "Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet diam",
+        "u25": "Read More"
+      },
+
+
+
+         "images": {
+        "img1": "img/carousel-1.jpg",
+        "img2": "img/carousel-2.jpg",
+        "img3": "img/signature.jpg",
+        "img4": "img/about.jpg",
+        "img5": "img/service-1.jpg",
+        "img6": "img/service-2.jpg",
+        "img7": "img/service-3.jpg",
+        "img8": "img/service-4.jpg",
+        "img9": "img/service-5.jpg",
+        "img10": "img/service-6.jpg",
+        "img11": "img/portfolio-1.jpg",
+        "img12": "img/portfolio-2.jpg",
+        "img13": "img/portfolio-3.jpg",
+        "img14": "img/portfolio-1.jpg",
+        "img15": "img/portfolio-2.jpg",
+        "img16": "img/portfolio-3.jpg",
+        "img17": "img/portfolio-4.jpg",
+        "img18": "img/portfolio-5.jpg",
+        "img19": "img/portfolio-6.jpg",
+        "img20": "img/team-1.jpg",
+        "img21": "img/team-2.jpg",
+        "img22": "img/team-3.jpg",
+        "img23": "img/team-4.jpg",
+        "img24": "img/testimonial.jpg",
+        "img25": "img/testimonial-1.jpg",
+        "img26": "img/testimonial-2.jpg",
+        "img27": "img/blog-1.jpg",
+        "img28": "img/user.jpg",
+        "img29": "img/blog-2.jpg",
+        "img30": "img/user.jpg",
+        "img31": "img/blog-3.jpg",
+        "img32": "img/user.jpg"
+    
+    }
+
+
+
+
+}
