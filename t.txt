@@ -147,6 +147,20 @@
         "f9":"esigned by",
         "f10":"HTML Codex"
       },
+        "color":{
+        "topbar":"grey",
+        "navbar":"red",
+        "carousel":"red",
+        "about":"red",
+        "service":"red",
+        "appointment":"grey",
+        "portfolio":"red",
+        "team":"grey",
+        "testimonial":"red",
+        "blog":"grey",
+        "footer":"red"
+     },
+
 
       "blogdetail":{
         "u0": "update Diam dolor duo ipsum clita sed lorem tempor. Clita kasd diam justo diam lorem sed amet sed rebum eos.",

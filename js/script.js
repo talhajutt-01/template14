@@ -149,6 +149,18 @@ const u23 = document.getElementById('u23');
 const u24 = document.getElementById('u24');
 const u25 = document.getElementById('u25');
 
+const g0 = document.getElementById('topbar');
+const g1 = document.getElementById('navbar');
+const g2 = document.getElementById('carousel');
+const g3 = document.getElementById('about');
+const g4 = document.getElementById('service');
+const g5 = document.getElementById('appointment');
+const g6 = document.getElementById('portfolio');
+const g7 = document.getElementById('team');
+const g8 = document.getElementById('testimonial');
+const g9 = document.getElementById('blog');
+const g10 = document.getElementById('footer');
+
 
 
 const img1 = document.getElementById('img1');
@@ -202,6 +214,11 @@ function updateContent(element, newValue) {
     imageElement.src = newSrc;
 }
 
+function updateBackgroundColor(element, newColor) {
+  // Update the background color for the element
+  element.style.backgroundColor = newColor;
+}
+
   
   // Fetch JSON data from the text file
   function updatePageContent(pageName) {
@@ -253,6 +270,7 @@ function updateContent(element, newValue) {
             updateContent(s0, jsonData.service.s0);
             updateContent(s1, jsonData.service.s1);
             updateContent(s2, jsonData.service.s2);
+            updateContent(s3, jsonData.service.s3);
             updateContent(s4, jsonData.service.s4);
             updateContent(s5, jsonData.service.s5);
             updateContent(s6, jsonData.service.s6);
@@ -335,6 +353,19 @@ function updateContent(element, newValue) {
             updateContent(f8, jsonData.footer.f8);
             updateContent(f9, jsonData.footer.f9);
             updateContent(f10, jsonData.footer.f10); 
+
+            updateBackgroundColor(g0, jsonData.color.topbar);
+            updateBackgroundColor(g1, jsonData.color.navbar);
+            updateBackgroundColor(g2, jsonData.color.carousel);
+            updateBackgroundColor(g3, jsonData.color.about);
+            updateBackgroundColor(g4, jsonData.color.service);
+            updateBackgroundColor(g5, jsonData.color.appointment);
+            updateBackgroundColor(g6, jsonData.color.portfolio);
+            updateBackgroundColor(g7, jsonData.color.team);
+            updateBackgroundColor(g8, jsonData.color.testimonial);
+            updateBackgroundColor(g9, jsonData.color.blog);
+            updateBackgroundColor(g10, jsonData.color.footer);
+          
     
          
             updateImageSrc(img1, jsonData.images.img1);
