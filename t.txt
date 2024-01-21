@@ -189,45 +189,7 @@
         "u23": "Plain Text",
         "u24": "Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet diam",
         "u25": "Read More"
-      },
-
-
-
-         "images": {
-        "img1": "img/carousel-1.jpg",
-        "img2": "img/carousel-2.jpg",
-        "img3": "img/signature.jpg",
-        "img4": "img/about.jpg",
-        "img5": "img/service-1.jpg",
-        "img6": "img/service-2.jpg",
-        "img7": "img/service-3.jpg",
-        "img8": "img/service-4.jpg",
-        "img9": "img/service-5.jpg",
-        "img10": "img/service-6.jpg",
-        "img11": "img/portfolio-1.jpg",
-        "img12": "img/portfolio-2.jpg",
-        "img13": "img/portfolio-3.jpg",
-        "img14": "img/portfolio-1.jpg",
-        "img15": "img/portfolio-2.jpg",
-        "img16": "img/portfolio-3.jpg",
-        "img17": "img/portfolio-4.jpg",
-        "img18": "img/portfolio-5.jpg",
-        "img19": "img/portfolio-6.jpg",
-        "img20": "img/team-1.jpg",
-        "img21": "img/team-2.jpg",
-        "img22": "img/team-3.jpg",
-        "img23": "img/team-4.jpg",
-        "img24": "img/testimonial.jpg",
-        "img25": "img/testimonial-1.jpg",
-        "img26": "img/testimonial-2.jpg",
-        "img27": "img/blog-1.jpg",
-        "img28": "img/user.jpg",
-        "img29": "img/blog-2.jpg",
-        "img30": "img/user.jpg",
-        "img31": "img/blog-3.jpg",
-        "img32": "img/user.jpg"
-    
-    }
+      }
 
 
 
